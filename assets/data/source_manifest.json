@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "hisn-1427",
+      "title": "حصن المسلم من أذكار الكتاب والسنة",
+      "author": "سعيد بن علي بن وهف القحطاني",
+      "edition": "الطبعة الرابعة والثلاثون — رجب 1427 هـ",
+      "kind": "scanned_book",
+      "pdf_pages": 160,
+      "local_filename": "7asen moslem.pdf",
+      "sha256": "a019c7622dde53f6c0da940d76b4f956967a839e2cd97a5a8e0be6076435ed0c",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "dua-leaflet",
+      "title": "مطوية الدعاء من الكتاب والسنة",
+      "author": "سعيد بن علي بن وهف القحطاني",
+      "kind": "abridged_leaflet",
+      "pdf_pages": 17,
+      "local_filename": "adoaa.pdf",
+      "sha256": "8f24641b76e0eff23051bbf3d59c03eb7823eeafede75f196494079db1226281",
+      "rights_status": "review_required",
+      "warning": "مطوية مختصرة وليست الكتاب الكامل"
+    }
+  ]
+}
